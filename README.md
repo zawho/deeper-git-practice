@@ -1,1 +1,1 @@
-# deeper-git-practice
+Monday, July 29, 2024 - Just got back from a long vacation. Have not yet finished the previous TOP project on solving the Knight's Travail problem and decided to ease myself back into coding by moving ahead a bit and taking on the advanced Git section of the Javascript track. In this project, I will mainly just be following the TOP lessons on more advanced Git functionality. The first major focus will be learning about the various ways to change Git history.
